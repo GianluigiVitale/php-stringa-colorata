@@ -5,7 +5,5 @@ If the Password passed via GET = Boolean, the software prints 'puoi entrare' in 
 
 HTML, CSS, PHP.
 ***
-### [Live Website](https://gianluigivitale.github.io/php-stringa-colorata/)
-***
 ### Preview:
 ![Preview](img/preview.jpg "Preview")
